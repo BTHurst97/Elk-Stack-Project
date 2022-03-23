@@ -93,7 +93,7 @@ SSH into the control node and follow the steps below:
 - Update the host file to include internal IP addresses of your webservers and ELK server
 - Run the playbook, and navigate to Kibana to check that the installation worked as expected.
 
-_TODO: Answer the following questions to fill in the blanks:_
+Answer the following questions to fill in the blanks:_
 - Which file is the playbook? Where do you copy it?_
 We copy this to our Web virtual machines
 - Which file do you update to make Ansible run the playbook on a specific machine? 
@@ -103,4 +103,4 @@ This is also specified in the config file
 - Which URL do you navigate to in order to check that the ELK server is running?
 http://<your-Elk-ip>/app/kibana#/home
 
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+
